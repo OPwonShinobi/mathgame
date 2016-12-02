@@ -1,0 +1,36 @@
+.bigText {
+	font-size: 35px;
+}
+
+.shorten {
+	width: 40%;
+	margin-left: 10px;
+}
+
+.btn .shorten{
+	width: 100px;
+}
+
+.warn {
+	color: red;
+	padding-left: 15px;
+}
+
+div .row {
+	margin-bottom: 10px;
+}
+
+.bold {
+	font-weight: bold;
+}
+
+.textCentered {
+	text-align: center;
+}
+
+.centered {
+	margin-left: 45%;
+}
+.centered.shorten {
+	margin-left: 30%;
+}
